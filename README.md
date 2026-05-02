@@ -13,6 +13,12 @@ A Service-Oriented Computing (SOC) based supply chain management system for Cozy
   <img src="https://github.com/NaveenDilshan1/cozy-comfort-soc-system/raw/main/home.png" width="800"/>
 </p>
 
+## 🛒 Order Dashboard Preview
+
+<p align="center">
+  <img src="https://github.com/NaveenDilshan1/cozy-comfort-soc-system/raw/main/order-dashboard.png" width="800"/>
+</p>
+
 ## 📦 Features
 - Inventory Management
 - Order Processing
