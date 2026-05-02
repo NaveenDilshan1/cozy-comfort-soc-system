@@ -7,7 +7,11 @@ A Service-Oriented Computing (SOC) based supply chain management system for Cozy
 - Frontend: React.js
 - Architecture: Microservices / SOC
 
-  https://github.com/NaveenDilshan1/cozy-comfort-soc-system/raw/main/home.png
+ ## 🖥️ Home Page Preview
+
+<p align="center">
+  <img src="https://github.com/NaveenDilshan1/cozy-comfort-soc-system/raw/main/home.png" width="800"/>
+</p>
 
 ## 📦 Features
 - Inventory Management
