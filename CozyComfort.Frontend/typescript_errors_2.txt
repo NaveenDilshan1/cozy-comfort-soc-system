@@ -1,0 +1,4 @@
+﻿src/components/Auth/Login.tsx(22,66): error TS2339: Property 'user' does not exist on type 'User'.
+src/components/Auth/Login.tsx(25,30): error TS2339: Property 'user' does not exist on type 'User'.
+src/components/Dashboard/Dashboard.tsx(10,11): error TS6133: 'navigate' is declared but its value is never read.
+src/components/Notifications/NotificationList.tsx(3,10): error TS1484: 'Notification' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.

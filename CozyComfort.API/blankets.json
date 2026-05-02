@@ -1,0 +1,95 @@
+﻿{
+    "value":  [
+                  {
+                      "blanketId":  12,
+                      "modelName":  "Cotton Blanket",
+                      "material":  "Cotton",
+                      "stockLevel":  0,
+                      "productionCapacity":  0,
+                      "size":  "king",
+                      "imageUrl":  "/images/products/904f78b0-6fdd-4673-a808-168d88ed547a.jpg"
+                  },
+                  {
+                      "blanketId":  22,
+                      "modelName":  "Wool Blanket",
+                      "material":  "Wool",
+                      "stockLevel":  0,
+                      "productionCapacity":  0,
+                      "size":  "king",
+                      "imageUrl":  "/images/products/a61fb5e8-3497-4531-a2ad-90113d7368f7.jpg"
+                  },
+                  {
+                      "blanketId":  23,
+                      "modelName":  "Fleece Blanket",
+                      "material":  "Fleece",
+                      "stockLevel":  0,
+                      "productionCapacity":  0,
+                      "size":  "queen",
+                      "imageUrl":  "/images/products/4a095d26-4d44-43d1-b2cd-823f2fbf0912.jpg"
+                  },
+                  {
+                      "blanketId":  24,
+                      "modelName":  "Velvet Blanket",
+                      "material":  "Velvet",
+                      "stockLevel":  0,
+                      "productionCapacity":  0,
+                      "size":  "queen",
+                      "imageUrl":  "/images/products/5ed91728-c794-4218-9f22-255edc34835e.jpg"
+                  },
+                  {
+                      "blanketId":  25,
+                      "modelName":  "Silk Blanket",
+                      "material":  "Silk",
+                      "stockLevel":  0,
+                      "productionCapacity":  0,
+                      "size":  "king",
+                      "imageUrl":  "/images/products/d659c588-5667-467a-a84c-8d013bf3ad3d.jpg"
+                  },
+                  {
+                      "blanketId":  29,
+                      "modelName":  "Sherpa Blanket",
+                      "material":  "Sherpa",
+                      "stockLevel":  0,
+                      "productionCapacity":  0,
+                      "size":  "queen",
+                      "imageUrl":  "/images/products/d3c97b5e-9a8d-4391-aaba-e01462e3e95b.jpg"
+                  },
+                  {
+                      "blanketId":  30,
+                      "modelName":  "Polyester Blanket",
+                      "material":  "Polyester",
+                      "stockLevel":  0,
+                      "productionCapacity":  0,
+                      "size":  "twin",
+                      "imageUrl":  "/images/products/7a4710d9-92d4-4567-bba9-8b0a71d02eb1.jpg"
+                  },
+                  {
+                      "blanketId":  31,
+                      "modelName":  "Cashmere Blanket",
+                      "material":  "Cashmere",
+                      "stockLevel":  0,
+                      "productionCapacity":  0,
+                      "size":  "king",
+                      "imageUrl":  "/images/products/d59090da-8948-412f-84a7-3d1c42c84e6b.jpg"
+                  },
+                  {
+                      "blanketId":  32,
+                      "modelName":  "Microfiber Blanket",
+                      "material":  "Microfiber",
+                      "stockLevel":  0,
+                      "productionCapacity":  0,
+                      "size":  "queen",
+                      "imageUrl":  "/images/products/4a2bfb78-b207-40bc-8c01-997cb1441075.jpg"
+                  },
+                  {
+                      "blanketId":  33,
+                      "modelName":  "Bamboo Blanket",
+                      "material":  "Bamboo",
+                      "stockLevel":  0,
+                      "productionCapacity":  0,
+                      "size":  "queen",
+                      "imageUrl":  "/images/products/6aee055a-728d-42f5-a05c-f9d7e9030215.jpg"
+                  }
+              ],
+    "Count":  10
+}

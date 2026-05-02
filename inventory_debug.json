@@ -1,0 +1,335 @@
+﻿{
+    "value":  [
+                  {
+                      "inventoryId":  2,
+                      "blanketId":  3,
+                      "location":  "Not Provided",
+                      "quantity":  0,
+                      "lastUpdated":  "2026-02-15T11:39:16.4586345",
+                      "ownerId":  1013,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  4.00
+                  },
+                  {
+                      "inventoryId":  3,
+                      "blanketId":  4,
+                      "location":  "Not Provided",
+                      "quantity":  3,
+                      "lastUpdated":  "2026-02-15T11:39:28.2104411",
+                      "ownerId":  1019,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  1.00
+                  },
+                  {
+                      "inventoryId":  4,
+                      "blanketId":  7,
+                      "location":  "Not Provided",
+                      "quantity":  2,
+                      "lastUpdated":  "2026-02-15T11:53:26.5048838",
+                      "ownerId":  1022,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  3.00
+                  },
+                  {
+                      "inventoryId":  5,
+                      "blanketId":  8,
+                      "location":  "Not Provided",
+                      "quantity":  3,
+                      "lastUpdated":  "2026-02-15T11:56:29.049017",
+                      "ownerId":  1023,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  3.00
+                  },
+                  {
+                      "inventoryId":  6,
+                      "blanketId":  1,
+                      "location":  "Industrial Zone",
+                      "quantity":  50,
+                      "lastUpdated":  "2026-02-15T12:01:35.0380993",
+                      "ownerId":  1024,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  25.00
+                  },
+                  {
+                      "inventoryId":  7,
+                      "blanketId":  2,
+                      "location":  "Industrial Zone",
+                      "quantity":  50,
+                      "lastUpdated":  "2026-02-15T12:01:35.0521224",
+                      "ownerId":  1024,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  25.00
+                  },
+                  {
+                      "inventoryId":  8,
+                      "blanketId":  3,
+                      "location":  "Industrial Zone",
+                      "quantity":  50,
+                      "lastUpdated":  "2026-02-15T12:01:35.0527134",
+                      "ownerId":  1024,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  25.00
+                  },
+                  {
+                      "inventoryId":  9,
+                      "blanketId":  4,
+                      "location":  "Industrial Zone",
+                      "quantity":  50,
+                      "lastUpdated":  "2026-02-15T12:01:35.0527602",
+                      "ownerId":  1024,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  25.00
+                  },
+                  {
+                      "inventoryId":  10,
+                      "blanketId":  5,
+                      "location":  "Industrial Zone",
+                      "quantity":  50,
+                      "lastUpdated":  "2026-02-15T12:01:35.0527872",
+                      "ownerId":  1024,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  25.00
+                  },
+                  {
+                      "inventoryId":  11,
+                      "blanketId":  6,
+                      "location":  "Industrial Zone",
+                      "quantity":  50,
+                      "lastUpdated":  "2026-02-15T12:01:35.0528057",
+                      "ownerId":  1024,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  25.00
+                  },
+                  {
+                      "inventoryId":  12,
+                      "blanketId":  7,
+                      "location":  "Industrial Zone",
+                      "quantity":  50,
+                      "lastUpdated":  "2026-02-15T12:01:35.0528236",
+                      "ownerId":  1024,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  25.00
+                  },
+                  {
+                      "inventoryId":  13,
+                      "blanketId":  8,
+                      "location":  "Industrial Zone",
+                      "quantity":  50,
+                      "lastUpdated":  "2026-02-15T12:01:35.0528424",
+                      "ownerId":  1024,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  25.00
+                  },
+                  {
+                      "inventoryId":  14,
+                      "blanketId":  9,
+                      "location":  "Industrial Zone",
+                      "quantity":  50,
+                      "lastUpdated":  "2026-02-15T12:01:35.0528651",
+                      "ownerId":  1024,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  25.00
+                  },
+                  {
+                      "inventoryId":  15,
+                      "blanketId":  10,
+                      "location":  "Industrial Zone",
+                      "quantity":  50,
+                      "lastUpdated":  "2026-02-15T12:01:35.0528832",
+                      "ownerId":  1024,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  25.00
+                  },
+                  {
+                      "inventoryId":  16,
+                      "blanketId":  9,
+                      "location":  "Not Provided",
+                      "quantity":  1,
+                      "lastUpdated":  "2026-02-15T18:31:48.5453734",
+                      "ownerId":  1027,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  1.00
+                  },
+                  {
+                      "inventoryId":  17,
+                      "blanketId":  10,
+                      "location":  "Factory",
+                      "quantity":  100,
+                      "lastUpdated":  "2026-02-17T04:58:15.8336359",
+                      "ownerId":  1033,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  50.00
+                  },
+                  {
+                      "inventoryId":  18,
+                      "blanketId":  10,
+                      "location":  "Factory 1035",
+                      "quantity":  45,
+                      "lastUpdated":  "2026-02-17T05:28:26.8457509",
+                      "ownerId":  1035,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  45.00
+                  },
+                  {
+                      "inventoryId":  19,
+                      "blanketId":  10,
+                      "location":  "Not Provided",
+                      "quantity":  0,
+                      "lastUpdated":  "2026-02-17T05:31:14.7597747",
+                      "ownerId":  1045,
+                      "ownerRole":  "Distributor",
+                      "pricePerUnit":  54.00
+                  },
+                  {
+                      "inventoryId":  20,
+                      "blanketId":  6,
+                      "location":  "Not Provided",
+                      "quantity":  7,
+                      "lastUpdated":  "2026-02-17T05:53:16.6738963",
+                      "ownerId":  1047,
+                      "ownerRole":  "Distributor",
+                      "pricePerUnit":  15.00
+                  },
+                  {
+                      "inventoryId":  21,
+                      "blanketId":  2,
+                      "location":  "Not Provided",
+                      "quantity":  3,
+                      "lastUpdated":  "2026-02-17T06:23:46.8310203",
+                      "ownerId":  5,
+                      "ownerRole":  "Seller",
+                      "pricePerUnit":  3.00
+                  },
+                  {
+                      "inventoryId":  22,
+                      "blanketId":  3,
+                      "location":  "Not Provided",
+                      "quantity":  6,
+                      "lastUpdated":  "2026-02-17T09:11:21.9246677",
+                      "ownerId":  1048,
+                      "ownerRole":  "Distributor",
+                      "pricePerUnit":  8.00
+                  },
+                  {
+                      "inventoryId":  23,
+                      "blanketId":  5,
+                      "location":  "Not Provided",
+                      "quantity":  4,
+                      "lastUpdated":  "2026-02-17T09:45:30.1990284",
+                      "ownerId":  1049,
+                      "ownerRole":  "Distributor",
+                      "pricePerUnit":  4.00
+                  },
+                  {
+                      "inventoryId":  24,
+                      "blanketId":  7,
+                      "location":  "Not Provided",
+                      "quantity":  5,
+                      "lastUpdated":  "2026-02-17T09:49:25.4388098",
+                      "ownerId":  1036,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  5.00
+                  },
+                  {
+                      "inventoryId":  25,
+                      "blanketId":  12,
+                      "location":  "Not Provided",
+                      "quantity":  5,
+                      "lastUpdated":  "2026-02-17T10:06:06.2367771",
+                      "ownerId":  6,
+                      "ownerRole":  "Seller",
+                      "pricePerUnit":  4.00
+                  },
+                  {
+                      "inventoryId":  26,
+                      "blanketId":  25,
+                      "location":  "Not Provided",
+                      "quantity":  3,
+                      "lastUpdated":  "2026-02-18T05:17:52.8032952",
+                      "ownerId":  1052,
+                      "ownerRole":  "Distributor",
+                      "pricePerUnit":  9.00
+                  },
+                  {
+                      "inventoryId":  27,
+                      "blanketId":  12,
+                      "location":  "Not Provided",
+                      "quantity":  10,
+                      "lastUpdated":  "2026-02-18T05:21:12.0539378",
+                      "ownerId":  1038,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  20.00
+                  },
+                  {
+                      "inventoryId":  28,
+                      "blanketId":  22,
+                      "location":  "Not Provided",
+                      "quantity":  8,
+                      "lastUpdated":  "2026-02-18T05:21:27.7580795",
+                      "ownerId":  1038,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  9.00
+                  },
+                  {
+                      "inventoryId":  29,
+                      "blanketId":  23,
+                      "location":  "Not Provided",
+                      "quantity":  8,
+                      "lastUpdated":  "2026-02-18T05:21:48.8368661",
+                      "ownerId":  1038,
+                      "ownerRole":  "Manufacturer",
+                      "pricePerUnit":  11.00
+                  },
+                  {
+                      "inventoryId":  30,
+                      "blanketId":  24,
+                      "location":  "Not Provided",
+                      "quantity":  0,
+                      "lastUpdated":  "2026-02-18T07:40:36.7955894",
+                      "ownerId":  1052,
+                      "ownerRole":  "Distributor",
+                      "pricePerUnit":  4.00
+                  },
+                  {
+                      "inventoryId":  31,
+                      "blanketId":  23,
+                      "location":  "Not Provided",
+                      "quantity":  0,
+                      "lastUpdated":  "2026-02-18T07:41:18.072094",
+                      "ownerId":  1052,
+                      "ownerRole":  "Distributor",
+                      "pricePerUnit":  13.20
+                  },
+                  {
+                      "inventoryId":  32,
+                      "blanketId":  22,
+                      "location":  "Not Provided",
+                      "quantity":  3,
+                      "lastUpdated":  "2026-02-18T07:53:29.7935844",
+                      "ownerId":  9,
+                      "ownerRole":  "Seller",
+                      "pricePerUnit":  4.00
+                  },
+                  {
+                      "inventoryId":  33,
+                      "blanketId":  24,
+                      "location":  "Not Provided",
+                      "quantity":  0,
+                      "lastUpdated":  "2026-02-18T07:55:54.152954",
+                      "ownerId":  9,
+                      "ownerRole":  "Seller",
+                      "pricePerUnit":  4.80
+                  },
+                  {
+                      "inventoryId":  34,
+                      "blanketId":  22,
+                      "location":  "Not Provided",
+                      "quantity":  3,
+                      "lastUpdated":  "2026-02-18T09:34:03.5200872",
+                      "ownerId":  1052,
+                      "ownerRole":  "Distributor",
+                      "pricePerUnit":  3.00
+                  }
+              ],
+    "Count":  33
+}

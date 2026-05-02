@@ -1,0 +1,35 @@
+@CozyComfort.API_HostAddress = http://localhost:5250
+
+### Auth - Login
+POST {{CozyComfort.API_HostAddress}}/api/auth/login
+Content-Type: application/json
+
+{
+    "username": "manuf1",
+    "password": "password123"
+}
+
+### Auth - Login (Distributor)
+POST {{CozyComfort.API_HostAddress}}/api/auth/login
+Content-Type: application/json
+
+{
+    "username": "dist1",
+    "password": "password123"
+}
+
+### Blanket - List all
+GET {{CozyComfort.API_HostAddress}}/api/blanket
+Accept: application/json
+
+### Inventory - List all
+GET {{CozyComfort.API_HostAddress}}/api/inventory
+Accept: application/json
+
+### Order - List all
+GET {{CozyComfort.API_HostAddress}}/api/order
+Accept: application/json
+
+### Order - Get Incoming for Manufacturer (manuf1 is ManufacturerId 1)
+GET {{CozyComfort.API_HostAddress}}/api/order?supplierId=1&role=Manufacturer&type=incoming
+Accept: application/json
